@@ -7,7 +7,7 @@ Docker compose v3 https://docs.docker.com/compose/compose-file/
 - Concerning .dockerignore https://devopsheaven.com/docker/dockerignore/2018/04/25/using-dockerignore.html
 
 ## Pre-requisite
-
+## Need small documents
 * docker
 * docker-compose
 If you don't want to google this, here is a nice documentation on how to install docker and docker-compose
